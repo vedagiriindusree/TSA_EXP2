@@ -93,7 +93,7 @@ plt.grid(True)
 plt.show()
 ```
 ### OUTPUT
-<img width="1243" height="706" alt="image" src="https://github.com/user-attachments/assets/d2e064b3-b67c-4f8d-bab2-02277acc492e" />
+<img width="836" height="457" alt="image" src="https://github.com/user-attachments/assets/bf9a4357-0ec7-4ae6-a4dc-46471b6aa872" />
 
 ### A - LINEAR TREND ESTIMATION
 <img width="1243" height="706" alt="image" src="https://github.com/user-attachments/assets/0a7f4a39-c692-4915-9b40-0f7065cd154a" />
